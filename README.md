@@ -1,0 +1,2 @@
+# Image-Classification-Fashion-MNIST-Dataset
+ In the realm of computer vision, image classification remains one of the foundational tasks that have driven advances in machine learning. The Fashion MNIST dataset, a modern alternative to the classic MNIST handwritten digit dataset, serves as an excellent benchmark for testing image classification algorithms. This article walks through the process of building, training, and evaluating a Convolutional Neural Network (CNN) model using TensorFlow to classify images from the Fashion MNIST dataset.
